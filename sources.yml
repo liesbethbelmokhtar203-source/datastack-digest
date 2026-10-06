@@ -1,0 +1,31 @@
+# The sources behind the digest
+
+I don't trust a news item until I can name its origin. The channel
+[t.me/Lx_groups](https://t.me/Lx_groups) prints the source link with every
+post; this file mirrors that policy for this repo.
+
+```yaml
+- category: AI / models
+  why: "release notes and pricing pages, primary only"
+  example_topics: [GPT-6, Claude, DeepSeek]
+
+- category: chips / hardware
+  why: "benchmark data over marketing copy"
+  example_topics: [snapdragon 2nm, GPU, AI workstations]
+
+- category: open_source / agents
+  why: "repo READMEs and maintainer posts"
+  example_topics: [agent frameworks, self-hosted tools]
+
+- category: free_tools
+  why: "must be useful on day one, not a trial funnel"
+
+- category: markets
+  why: "index moves only, no stock advice"
+  example_topics: [nasdaq]
+```
+
+Browse before subscribing: [t.me/s/Lx_groups](https://t.me/s/Lx_groups) —
+no Telegram account required. Long-form versions of the big stories:
+[blog.lynxflow.co](https://blog.lynxflow.co). Landing page explaining what
+the channel is about: [blog.lxlynx.com/tg-channel-landing/](https://blog.lxlynx.com/tg-channel-landing/).
