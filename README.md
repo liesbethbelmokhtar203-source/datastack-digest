@@ -7,7 +7,8 @@ feed I actually read from.
 **Where the links land:** the Chinese-language digest
 [**t.me/Lx_groups**](https://t.me/Lx_groups) (no login needed to browse:
 [t.me/s/Lx_groups](https://t.me/s/Lx_groups)). English deep dives live on
-[blog.lynxflow.co](https://blog.lynxflow.co).
+[blog.lynxflow.co](https://blog.lynxflow.co). What the channel is and whether
+it's for you: [blog.lxlynx.com/tg-channel-landing/](https://blog.lxlynx.com/tg-channel-landing/).
 
 ## What I track
 
