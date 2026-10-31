@@ -1,30 +1,44 @@
-# The Data Stack Reading List
+<div align="center">
 
-Every morning I scan AI releases, data tooling, infra pricing and chip news
-before writing any SQL. This repo is my reading list — and it lives on a
-feed I actually read from.
+# datastack-digest
 
-**Where the links land:** the Chinese-language digest
-[**t.me/Lx_groups**](https://t.me/Lx_groups) (no login needed to browse:
-[t.me/s/Lx_groups](https://t.me/s/Lx_groups)). English deep dives live on
-[blog.lynxflow.co](https://blog.lynxflow.co). What the channel is and whether
-it's for you: [blog.lxlynx.com/tg-channel-landing/](https://blog.lxlynx.com/tg-channel-landing/).
+**A reading digest for the data stack — what changed in dbt, DuckDB, and friends this week.**
 
-## What I track
+[![license](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 
-- New model releases and API price drops — cost per token directly changes
-  what lands in our warehouse budget
-- Warehouse / dbt / DuckDB ecosystem updates
-- Chip and GPU launches, on-device inference trends
-- Free tools that survive an actual workday
-- Nasdaq tech moves (my tables and my portfolio both care)
+</div>
 
-## How I use it
+## About
 
-```
-morning: skim the digest (3 min)
-deep dive: switch to the blog when a topic matters
-workflow: pin #AI and #硬件 tags, ignore the rest
+Same shape as any good digest repository: an append-only archive of plain
+markdown, one entry per week, with every claim linked. Because it is generated
+rather than hand-written, the archive stays consistent and diffable.
+
+## Quick start
+
+```bash
+git clone https://github.com/liesbethbelmokhtar203-source/datastack-digest
+cat README.md
 ```
 
-No algorithm, no ads, no tracking. Follow or don't — the archive stays open.
+## Configuration
+
+| Key | Description |
+| --- | --- |
+| `README.md` | this file |
+## Roadmap
+
+- [ ] DuckDB release diff
+- [ ] Search across the archive
+- [ ] RSS output
+
+## Contributing
+
+Issues and pull requests are welcome. Please keep changes small and focused,
+and add a test for any behaviour change — every repository here ships with a
+runnable test suite and no third-party dependencies, so CI is just
+`python3 -m unittest` / `bash test_*.sh`.
+
+## License
+
+[MIT](LICENSE)
